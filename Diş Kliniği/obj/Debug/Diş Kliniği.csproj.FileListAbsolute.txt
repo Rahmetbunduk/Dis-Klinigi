@@ -1,0 +1,30 @@
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.exe.config
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.exe
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.pdb
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.AssemblyReference.cache
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Anasayfa.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Form1.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Hasta.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Properties.Resources.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Randevu.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Receteler.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Tedavi.resources
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.GenerateResource.cache
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.CoreCompileInputs.cache
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.exe
+C:\Users\styin\OneDrive\Masaüstü\Diş Kliniği\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.pdb
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.exe.config
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.exe
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\bin\Debug\Diş Kliniği.pdb
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.AssemblyReference.cache
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Anasayfa.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Form1.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Hasta.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Properties.Resources.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Randevu.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Receteler.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş_Kliniği.Tedavi.resources
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.GenerateResource.cache
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.csproj.CoreCompileInputs.cache
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.exe
+C:\Users\styin\OneDrive\Resimler\Kameradan içeri aktarılanlar\2024-01-29\Rahmet Bunduk\Diş Kliniği\Diş Kliniği\obj\Debug\Diş Kliniği.pdb
